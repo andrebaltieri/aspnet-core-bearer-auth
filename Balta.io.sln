@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balta.io.Domain", "Balta.io.Domain\Balta.io.Domain.csproj", "{CEFA9878-CDB3-495C-8F46-D19F3C8A986D}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Balta.io.Api", "Balta.io.Api\Balta.io.Api.xproj", "{1E2F4462-94A1-4311-A18E-B79E6111DBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFA9878-CDB3-495C-8F46-D19F3C8A986D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFA9878-CDB3-495C-8F46-D19F3C8A986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFA9878-CDB3-495C-8F46-D19F3C8A986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFA9878-CDB3-495C-8F46-D19F3C8A986D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2F4462-94A1-4311-A18E-B79E6111DBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2F4462-94A1-4311-A18E-B79E6111DBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2F4462-94A1-4311-A18E-B79E6111DBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2F4462-94A1-4311-A18E-B79E6111DBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "exports": {
+    "Balta.io.Domain/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.6.1",
+      "compile": {
+        "bin/Debug/Balta.io.Domain.dll": {}
+      },
+      "runtime": {
+        "../packages/DomainNotificationHelperCore.1.0.4/lib/net452/DomainNotificationHelperCore.dll": {},
+        "bin/Debug/Balta.io.Domain.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Balta.io.Domain.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
